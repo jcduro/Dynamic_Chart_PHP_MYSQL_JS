@@ -96,8 +96,8 @@ Base de datos: MySQL / MariaDB.
 Frontend: HTML5, CSS3 (neon UI), JavaScript ES6.
 Canvas: API 2D (drawImage, globalCompositeOperation, fillRect).
 Iconos: Font Awesome (para integrar con el dashboard si se desea).
-Pagina de imagenes para tu BD 
-[![Imagenes_BD](https://www.thiings.co/things)
+Pagina de imagenes para tu BD en la siguiente Pag:
+https://www.thiings.co/things
 
 
 ---
