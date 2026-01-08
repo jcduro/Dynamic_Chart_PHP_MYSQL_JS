@@ -109,12 +109,14 @@ https://www.thiings.co/things
 Configurar la conexión a la BD
 En db.php:
 
-php
+
+```php
 $DB_HOST = 'localhost';
 $DB_NAME = 'colores';
 $DB_USER = 'tu_usuario';
 $DB_PASS = 'tu_password';
 $DB_CHAR = 'utf8mb4';
+ ```
 
 Crear la tabla y datos
 Ejecuta el script SQL de la sección Base de datos en tu servidor MySQL.
