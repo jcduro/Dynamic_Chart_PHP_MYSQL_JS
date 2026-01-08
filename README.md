@@ -1,5 +1,5 @@
 
-## 📊 Chat estilo Neon 
+## 📊 Chart estilo Neon 
 
 Dashboard dinámico con gráficas Chart.js + estilo neon + tabla responsive en PHP puro que muestra los primeros 5 Productos.
  ```text
