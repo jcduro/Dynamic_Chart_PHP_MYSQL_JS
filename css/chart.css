@@ -17,6 +17,14 @@
 
 
 
+:root {
+
+  --white-white: #fff;
+  --black-black: #000;
+  --landing-neon:#04d9ff;
+
+}
+
 /* ---------- GRÁFICAS RESPONSIVE ---------- */
 .fila-graficas {
   display: flex;
