@@ -99,7 +99,8 @@ require_once __DIR__ . '/conexion.php'; // AJUSTA ESTA RUTA
 </div>
 
 
-
+    <script src="/js/Chart.min.js"></script>
+ 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   const ctxBar    = document.getElementById('chartBarNeon').getContext('2d');
@@ -376,6 +377,5 @@ function externalTooltipHandler(context) {
 
 
 
-<?php include __DIR__ . '/../templates/footer.php'; ?>
 
 
